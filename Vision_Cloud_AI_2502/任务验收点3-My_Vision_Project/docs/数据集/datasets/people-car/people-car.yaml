@@ -1,0 +1,7 @@
+path: C:/Users/DH/PythonProject1/datasets/people-car
+train: images/train
+val: images/val
+
+names:
+  0: people
+  1: car
